@@ -65,7 +65,7 @@ list-style-type: none;
     text-decoration: none;
     color: rgb(214, 214, 214);
     font-weight: 300;
-    font-size: 16px;
+    font-size: 17px;
     
 }
 
@@ -88,7 +88,7 @@ list-style-type: none;
     width: 0;
     height: 2px;
     background-color: white;
-    transition: width 0.3s ease; /* Durasi transisi */
+    transition: width 0.3s ease-in-out; /* Durasi transisi */
    
   }
   
